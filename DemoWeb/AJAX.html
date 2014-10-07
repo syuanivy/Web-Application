@@ -1,0 +1,34 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Demo Web</title>
+<link href="Site.css" rel="stylesheet">
+</head>
+<body>
+
+<nav id="nav01"></nav>
+
+<div id="main">
+<h1>Customers</h1>
+<div id="id01"></div>
+<footer id="foot01"></footer>
+</div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = "http://www.w3schools.com/website/Customers_HTML.php";
+
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        document.getElementById("id01").innerHTML =
+        xmlhttp.responseText;
+    }
+}
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
+</script>
+
+<script src="Script.js"></script>
+
+</body>
+</html> 

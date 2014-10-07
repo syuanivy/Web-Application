@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/usr/share/applications/sublime.desktop",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ivy/Documents/cs601/project4/Learning Web Mail/DemoWeb/Index.html",
+		"/home/ivy/Documents/ivy/shared/src-ww/cs601/blkqueue/IntegerSequence.java",
+		"/home/ivy/Documents/ivy/shared/src-ww/cs601/blkqueue/RingBuffer.java",
+		"/home/ivy/Documents/ivy/shared/src-ww/cs601/blkqueue/MessageQueue.java",
+		"/usr/share/applications/sublime.desktop",
+		"/home/ivy/Documents/Dropbox/cs673/hw/hw1/hw1.tex",
+		"/home/ivy/Documents/Dropbox/cs673/hw/cs673hw.sublime-project",
+		"/home/ivy/Documents/ivy/shared/proxy_project/syuanivy-proxy/src/build.properties",
+		"/home/ivy/Documents/Dropbox/cs673/hw/hw5/BST2.png",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/ThreadObserver.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/SynchronizedBlockingQueue.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/MessageSequence.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/RingBuffer.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/Producer.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/MessageQueueAdaptor.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/MessageQueue.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/Consumer.java",
+		"/home/ivy/Documents/ivy/shared/src/cs601/blkqueue/IntegerSequence.java",
+		"/home/ivy/Documents/Dropbox/cs673/hw/hw5/hw5.tex",
+		"/home/ivy/Documents/Dropbox/cs673/hw/hw4/hw4.tex",
+		"/home/ivy/Documents/cs673/hw/hw4/hw4",
+		"/home/ivy/Documents/cs673/hw/hw3/hw3.tex",
+		"/home/ivy/Documents/cs673/hw/homeworktemplate.tex",
+		"/home/ivy/Documents/cs601/project3/syuanivy-proxy/src/cs601/collections/ClientHandlerR.java",
+		"/home/ivy/Documents/cs673/lecture2/hw3.tex",
+		"/home/ivy/Documents/cs673/lecture1/hw1.tex",
+		"/home/ivy/Documents/cs601/project2/examples/ClientHandler-new.java",
+		"/home/ivy/Documents/cs601/project2/examples/ProxyThread.txt",
+		"/home/ivy/Documents/ivy/shared/draft-proxy/src/cs601/proxy/ProxyServer.java",
+		"/home/ivy/Documents/cs673/lecture1/hw2.tex",
+		"/home/ivy/Documents/ivy/shared/vincerao-proxy/src/cs601/proxy/ClientHandler.java",
+		"/home/ivy/Documents/cs601/project2/examples/ProxyServer.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"run",
+			"rug",
+			"pairs",
+			"data",
+			"upstream",
+			"open",
+			"\\r",
+			"run",
+			"empty",
+			"method",
+			"variable",
+			"master",
+			"[",
+			"n^2",
+			"0\\leq",
+			"0",
+			"subsection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/usr/share/applications/sublime.desktop",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"run",
+				"cs601/blkqueue/IntegerSequence.java"
+			],
+			[
+				"",
+				"/home/ivy/Documents/cs673/lecture1/hw2.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

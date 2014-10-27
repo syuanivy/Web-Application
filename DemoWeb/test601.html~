@@ -1,0 +1,9 @@
+<html>
+<body>
+  <p>Hi, $name$!</p>
+  <p>Phones:
+  <ul>
+  $phones:{p | <li>$p$</li>}$
+  </ul>
+</body>
+</html>
